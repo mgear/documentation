@@ -50,9 +50,9 @@ Configure service products
 
 When the :guilabel:`Time Billing` feature is enabled, a new product is created in the *Sales* app
 called :guilabel:`Service on Timesheets`. This product can be found under :menuselection:`Sales -->
-Products --> Products`. Search for `Service on Timesheets` in the search bar. This is the product
-that will be used when invoicing for services after they have been completed (*post-paid support
-services*).
+Products --> Products`. Search for `Service on Timesheets` in the :guilabel:`search bar`. This is
+the product that will be used when invoicing for services after they have been completed (*post-paid
+support services*).
 
 Select :guilabel:`Service on Timesheets` from the product page. This reveals the product detail
 form. The product is configured with the :guilabel:`Product Type` set to :guilabel:`Service` and
@@ -125,8 +125,8 @@ To create a *Helpdesk* ticket for prepaid services, navigate to :menuselection:`
 a :guilabel:`Team`. This will reveal that team's :guilabel:`Pipeline`. Click :guilabel:`New` to
 create a new ticket.
 
-On the blank :guilabel:`Ticket` form, create a ticket :guilabel:`Title`, and enter the
-:guilabel:`Customer` information.
+On the blank ticket form, create a ticket :guilabel:`Title`, and enter the :guilabel:`Customer`
+information.
 
 When the customer name is added, the :guilabel:`Sales Order Item` field will automatically populate
 with the most recent prepaid sales order item that has time remaining.
