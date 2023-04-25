@@ -12,6 +12,7 @@ churn, upselling, etc.
 .. seealso::
    - `Odoo Tutorials: Subscriptions <https://www.odoo.com/slides/subscription-20>`_
    - :doc:`subscriptions/products`
+   - :doc:`subscriptions/ecommerce`
    - :doc:`subscriptions/plans`
    - :doc:`subscriptions/upselling`
    - :doc:`subscriptions/renewals`
@@ -74,6 +75,7 @@ invoice manually.
    :titlesonly:
 
    subscriptions/products
+   subscriptions/ecommerce
    subscriptions/plans
    subscriptions/upselling
    subscriptions/renewals
