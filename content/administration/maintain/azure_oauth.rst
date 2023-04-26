@@ -47,10 +47,24 @@ API permissions
 ---------------
 
 The :guilabel:`API permissions` should be set next. Odoo will need specific API permissions to be
+<<<<<<< HEAD
 able to read (IMAP) and send (IMAP) emails in the Microsoft 365 setup. First, click the
 :guilabel:`API permissions` link, located in the left menu bar. Next, click on the :guilabel:`(+)
 Add a Permission` button and select :guilabel:`Microsoft Graph` under :guilabel:`Commonly Used
 Microsoft APIs`. After, select the :guilabel:`Delegated Permissions` option.
+||||||| parent of 80e075813 (temp)
+able to read (IMAP) and send (IMAP) emails in the Microsoft 365 setup. First, click the
+:guilabel:`API permissions` link, located in the left menu bar. Next, click on the
+:guilabel:`(+) Add a Permission` button and select :guilabel:`Microsoft Graph` under
+:guilabel:`Commonly Used Microsoft APIs`. After, select the :guilabel:`Delegated Permissions`
+option.
+=======
+able to read (IMAP) and send (SMTP) emails in the Microsoft 365 setup. First, click the
+:guilabel:`API permissions` link, located in the left menu bar. Next, click on the
+:guilabel:`(+) Add a Permission` button and select :guilabel:`Microsoft Graph` under
+:guilabel:`Commonly Used Microsoft APIs`. After, select the :guilabel:`Delegated Permissions`
+option.
+>>>>>>> 80e075813 (temp)
 
 In the search bar, search for the following :guilabel:`Deregulated permissions` and click
 :guilabel:`Add permissions` for each one:
